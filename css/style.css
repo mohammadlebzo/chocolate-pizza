@@ -190,8 +190,11 @@ footer{
 }
 
 footer div {
+    margin: auto;
     text-align: center;
     margin-bottom: 30px;
     color: gray;
     font-family: 'murizalight';
+    width: 220px;
 }
+
